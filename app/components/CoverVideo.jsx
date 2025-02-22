@@ -89,7 +89,7 @@ const CoverVideo = () => {
        
       </TitleWrapper>
       {/* <video src={vid} type="video/mp4" autoPlay muted loop /> */}
-      <video autoPlay muted loop className=''>
+      <video autoPlay muted loop playsInline preload='auto' className=''>
       <source src="/vid.mp4" type="video/mp4" />
      
     </video>

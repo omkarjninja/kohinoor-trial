@@ -48,7 +48,7 @@ const Final = () => {
                     <p className="text-base leading-4 text-[#7b3911]">
                         2025 <span className="font-semibold">Kohinoor Watches</span>
                     </p>
-                    <div className="border-l border-[#7b3911] pl-2 ml-2">
+                    <div className="border-l border-[#7b3911] pl-2 ml-2 justify-end">
                         <p className="text-base leading-4 text-[#7b3911]">Inc. All rights reserved</p>
                     </div>
                 </div>
