@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300&family=Philosopher&display=swap');
+@font-face {
+    font-family: domaine;
+    src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
+}
+
+@font-face {
+    font-family: 'Malabar LT Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/src/assets/font/MalabarLT-Regular.otf') format('opentype');
+    }
+
+.cover-head-vid{
+    font-family: 'Malabar LT Italic';
+    font-size: 10em;
+    color: whitesmoke;
+}
+@media screen and (max-width: 768px){
+    .cover-head-vid{
+        font-size: 5em;
+    }
+    
+}
+.vr{
+    background-color:rgb(248, 236, 219)
+}
