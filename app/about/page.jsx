@@ -31,7 +31,7 @@ export default function page() {
       {/* Video Section */}
       <div className="w-full lg:w-1/2 h-1/2 lg:h-full flex items-center justify-center">
         <video 
-          src="./vid.mp4" 
+          src="./vid.webm" 
           className="w-full h-full object-cover" 
           autoPlay 
           loop 
