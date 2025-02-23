@@ -3,3 +3,7 @@
   transition: transform 0.3s;
 
 }
+.grid__cell-img-inner {
+  background-size:60%;
+  background-repeat: no-repeat;
+}
