@@ -1,20 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300&family=Philosopher&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300&family=Philosopher&display=swap'); */
 
 
 @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&family=Martel:wght@200;300;400;600;700;800;900&display=swap');
 
 
-@font-face {
+/* @font-face {
     font-family: domaine;
     src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
-}
+} */
 
-@font-face {
+/* @font-face {
     font-family: 'Malabar LT Regular';
     font-style: normal;
     font-weight: normal;
     src: url('/src/assets/font/MalabarLT-Regular.otf') format('opentype');
-    }
+    } */
 
 .cover-head-vid{
     font-family: "Martel", serif;

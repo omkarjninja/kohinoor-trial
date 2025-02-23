@@ -63,7 +63,7 @@ export default function Grid() {
         </div>
         <div className="grid__cell grid__cell-c4-r2">
             <div className="grid__cell-img">
-                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(1.jpg)` }} data-item="item-4">
+                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(1.JPG)` }} data-item="item-4">
                     
                 </div>
             </div>

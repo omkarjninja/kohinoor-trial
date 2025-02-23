@@ -99,13 +99,7 @@ const Loader = () => {
        <p className='load-head'>Kohinoor<span>Watches</span> </p><br />
        
       </Text>
-      <Text
-        variants={textVariants}
-        initial="hidden"
-        animate="visible"
-      >
-        {/* <span className='small-text-load'>A Creative & Digital Studio Based in Sri Lanka</span> */}
-    </Text>
+      
     </Container>
   );
 };
