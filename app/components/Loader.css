@@ -2,13 +2,25 @@
     font-family: domaine;
     src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
 }
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&family=Martel:wght@200;300;400;600;700;800;900&display=swap');
+
 .load-head{
     font-size: 2em;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: domaine;
+    font-family: "Martel", serif;
+}
+
+.load-head span{
+    font-family: "Assistant", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    position: absolute;
+    left: 30%;
+    top: 33%;
 }
 
 .small-text-load{

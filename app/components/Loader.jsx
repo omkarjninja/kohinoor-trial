@@ -96,7 +96,7 @@ const Loader = () => {
         initial="hidden"
         animate="visible"
       >
-       <p className='load-head'>Kohinoor Watches</p><br />
+       <p className='load-head'>Kohinoor<span>Watches</span> </p><br />
        
       </Text>
       <Text

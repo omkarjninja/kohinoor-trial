@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300&family=Philosopher&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200..800&family=Martel:wght@200;300;400;600;700;800;900&display=swap');
+
+
 @font-face {
     font-family: domaine;
     src: url(/src/assets/font/Domaine\ Sans\ Fine\ Regular\ Regular.woff);
@@ -12,10 +17,28 @@
     }
 
 .cover-head-vid{
-    font-family: 'Malabar LT Italic';
+    font-family: "Martel", serif;
+    font-weight: 700;
+    font-style: normal;
     font-size: 10em;
     color: whitesmoke;
 }
+
+.cover-head-vid span{
+    font-family: "Assistant", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  position: absolute;
+  left: 30%;
+  top: 32%;
+  /* font-size: 8rem; */
+  /* transform: translateY(100px); */
+  /* position: relative;
+  top: 120px;
+  left: -35rem; */
+}
+
 @media screen and (max-width: 768px){
     .cover-head-vid{
         font-size: 5em;

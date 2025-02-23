@@ -31,7 +31,7 @@ const OverLay = styled.div`
 
 const TitleWrapper = styled(motion.div)`
   position: absolute;
-  top: 47%;
+  top: 42%;
   left: 1%;
   z-index: 8;
 
@@ -83,7 +83,7 @@ const CoverVideo = () => {
             data-scroll-delay=".12"
             data-scroll-speed="2"
           >
-            <p className="cover-head-vid">Kohinoor Watches</p>
+            <p className="cover-head-vid">Kohinoor <span>Watches</span> </p>
           </motion.h1>
         </div>
        

@@ -2,7 +2,7 @@ import one from "../../assets/img/a.jpg"
 
 export default function Footer() {
     return (
-        <div className=" 2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9 px-4   bg-[#f2f0ef]">
+        <div className=" 2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9 px-4  mx-4  bg-[#f2f0ef]">
             <div className=" text-center">
                 <h2 className=" font-semibold lg:text-4xl text-3xl lg:leading-9 md:leading-7 leading-9 text-[#7b3911] md:w-full w-9/12 mx-auto">Follow Us on Instagram</h2>
                 <p className=" font-normal text-base leading-6 text-gray-600 mt-4 lg:w-5/12 md:w-9/12 mx-auto">
