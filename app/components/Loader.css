@@ -7,7 +7,7 @@
 .load-head{
     font-size: 2em;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: "Martel";
@@ -20,7 +20,7 @@
     font-style: normal;
     position: absolute;
     left: 30%;
-    top: 33%;
+    top: 40%;
 }
 
 /* .small-text-load{
