@@ -134,11 +134,11 @@ const Logo = () => {
       <div className='bar-nav'>
         <ul>
          {/* <img className="logo-av" src={imga} alt="" /> */}
-         <Image src={klarge} alt="" className=" logo-av2 pt-2 pb-2" style={{width:"160px",height:"160px"}}/>
-         {/* <Image src={klogo} alt="Kohinoor Mobile Logo" 
-className="sm:hidden logo-av pt-2 pb-2" 
+         {/* <Image src={klarge} alt="" className=" logo-av2 pt-2 pb-2" style={{width:"160px",height:"160px"}}/> */}
+         <Image src={klogo} alt="Kohinoor Mobile Logo" 
+className="logo-av pt-2 pb-0" 
 style={{ width: "120px", height: "120px" }} 
-/>  */}
+/> 
         <li><Link href="/about">About</Link></li>
         <li><Link href="https://www.instagram.com/kohinoor_watches.__/">Contact</Link></li>
         {/* <li><Link href="https://www.instagram.com/omkar_jadhav_ninja/">News</Link></li> */}

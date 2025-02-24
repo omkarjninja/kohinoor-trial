@@ -28,7 +28,7 @@ export default function Grid() {
         </div>
         <div className="grid__cell grid__cell-c3-r1">
             <div className="grid__cell-img">
-                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(3.jpg)` }} data-item="item-3">
+                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(8.jpg)` }} data-item="item-3">
                    
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default function Grid() {
         </div>
         <div className="grid__cell grid__cell-c2-r2">
             <div className="grid__cell-img">
-                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(6.jpg)` }} data-item="item-2">
+                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(11.png)` }} data-item="item-2">
                    
                 </div>
             </div>
@@ -63,7 +63,7 @@ export default function Grid() {
         </div>
         <div className="grid__cell grid__cell-c4-r2">
             <div className="grid__cell-img">
-                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(1.JPG)` }} data-item="item-4">
+                <div className="grid__cell-img-inner" style={{ backgroundImage: `url(9.jpg)` }} data-item="item-4">
                     
                 </div>
             </div>
