@@ -136,7 +136,7 @@ const Logo = () => {
          {/* <img className="logo-av" src={imga} alt="" /> */}
          {/* <Image src={klarge} alt="" className=" logo-av2 pt-2 pb-2" style={{width:"160px",height:"160px"}}/> */}
          <Image src={klogo} alt="Kohinoor Mobile Logo" 
-className="logo-av pt-2 pb-0" 
+className="logo-av pt-2 pb-2" 
 style={{ width: "120px", height: "120px" }} 
 /> 
         <li><Link href="/about">About</Link></li>

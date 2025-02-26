@@ -75,7 +75,7 @@ const About = () => {
       >
        "A timeless watch is more than an accessory—it’s a legacy on your wrist. Discover rare and vintage timepieces that define elegance, only at Kohinoor Watches."
        <br />
-       <span className='small-left px-2'> - Kohinoor Watch</span>
+       {/* <span className='small-left px-2'> - Kohinoor Watch</span> */}
       </LeftContainer>
        
       <TextWrapper >
