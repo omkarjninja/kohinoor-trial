@@ -10,9 +10,9 @@ export default function Footer() {
                 </p>
             </div>
             <div className=" grid lg:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:grap-8 md:gap-6 gap-4 mt-10">
-                <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/C9P4cXvSZHj/")}>
-                    <img src="img/w.jpg" alt="A picture of a sitting dog" className=" lg:block hidden w-full " />
-                    <img src="img/w.jpg" alt="A picture of a sitting dog" className="lg:hidden block w-full " />
+                <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/DFcycf_oqYC/?img_index=2")}>
+                    <img src="img/a.jpg" alt="A picture of a sitting dog" className=" lg:block hidden w-full " />
+                    <img src="img/a.jpg" alt="A picture of a sitting dog" className="lg:hidden block w-full " />
                     <div className=" flex justify-center items-center opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
                     <div className=" absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
                         <svg width={64} height={64} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -22,9 +22,9 @@ export default function Footer() {
                         </svg>
                     </div>
                 </div>
-                <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/C_5WgfMys0A/")}>
-                    <img src="img/x.jpg" alt="Smiling Girl" className=" lg:block hidden w-full " />
-                    <img src="img/x.jpg" alt="Smiling Girl" className="lg:hidden block w-full " />
+                <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/DGJgLodufFp/?img_index=1")}>
+                    <img src="img/b.jpg" alt="Smiling Girl" className=" lg:block hidden w-full " />
+                    <img src="img/b.jpg" alt="Smiling Girl" className="lg:hidden block w-full " />
                     <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
                     <div className=" absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
                         <svg width={64} height={64} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -34,12 +34,12 @@ export default function Footer() {
                         </svg>
                     </div>
                 </div>
-                <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/DFVByTCS-jV/")}>
+                <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/DGIM3oghoUO/?img_index=3")}>
                    
 
                    
-                    <img src="img/y.jpg" alt="Men Posing"  className=" lg:block hidden w-full " />
-                    <img src="img/y.jpg" alt="Men Posing" className="lg:hidden block w-full " />
+                    <img src="img/d.jpg" alt="Men Posing"  className=" lg:block hidden w-full " />
+                    <img src="img/d.jpg" alt="Men Posing" className="lg:hidden block w-full " />
                     <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
                     <div className=" absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
                         <svg width={64} height={64} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -51,8 +51,8 @@ export default function Footer() {
                 
                 </div>
                 <div className="relative group" onClick={() => window.open("https://www.instagram.com/p/DGL4H7KTDqu/")}>
-                    <img src="img/z.jpg" alt="2 puppies" className=" lg:block hidden w-full " />
-                    <img src="img/z.jpg" alt="2 puppies" className="lg:hidden block w-full " />
+                    <img src="img/c.jpg" alt="2 puppies" className=" lg:block hidden w-full " />
+                    <img src="img/c.jpg" alt="2 puppies" className="lg:hidden block w-full " />
                     <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
                     <div className=" absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100">
                         <svg width={64} height={64} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
